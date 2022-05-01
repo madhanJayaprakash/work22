@@ -1,0 +1,28 @@
+.navbar-toggle.pull-left {
+  margin-left: 15px;
+}
+@media (min-width: 768px) {
+  .pull-sm-left {
+    float: left !important;
+  }
+}
+
+hr.solid {
+  border-top: 1.3px solid rgb(218, 215, 215);
+}
+
+hr.blogcls{
+  border-top: 1px solid rgb(218, 215, 215);
+}
+.authorShow{
+  display: block;
+}
+.authorHide{
+  display: none !important;
+}
+.articlecardcls{
+  cursor: pointer;
+}
+.readmorecls{
+  text-decoration: none;
+}
